@@ -22,7 +22,7 @@
 
 <br/><br>
  ####  ✏️: Stats
-![TaySeobLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaesubLee&show_icons=true&theme=merko)
+![TaySeobLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaySeobLee&show_icons=true&theme=merko)
 
  <br/>
  <br/>
@@ -34,13 +34,13 @@
  <br/>
  
  #### 📝: Study Log
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaesubLee&layout=compact&theme=highcontrast)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaySeobLee&layout=compact&theme=highcontrast)  
 
  <br/> <br/>
 
 ### 📞 CONTACT 📞
 <a href="mailto:subseobhada@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kris1129@dgu.ac.kr" alt="Gmail Badge" style="width:60pt;">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subseobhada@dgu.ac.kr" alt="Gmail Badge" style="width:60pt;">
 </a>
 
 
